@@ -1,0 +1,12 @@
+nav ul{
+    list-style: repeating-linear-gradient(10);
+    list-style-position: unset;
+}
+
+nav li{
+    list-style: cross-fade();
+}
+
+.top-navigation-bar{
+    list-style-position: var(repeating-linear-gradient);
+}
