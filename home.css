@@ -1,3 +1,7 @@
 .menubar{
-    -ms-flex-align: center;
+    display: inline;
+}
+
+.footer{
+    display: inline;
 }
